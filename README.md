@@ -1,3 +1,3 @@
-Start application with command `npm start` via Node.js
+Start application with command `npm start` via CMD
 
-Quesitons and anwsers are downloading through the API on https://opentdb.com
+New 10 quesitons and  4 answers on each one are downloading through the API on https://opentdb.com every page restart
